@@ -32,10 +32,8 @@ cd Netflix_Clone_Website
 
 ## Screenshots
 ### Homepage View
-![Homepage](assets/homepage.png)
+![image](https://github.com/user-attachments/assets/e6f527d7-dc00-4202-8bf2-3a90b511a981)
 
-### Movie Section
-![Movie Section](assets/movies_section.png)
 
 ## Technologies Used
 - **HTML5** - For structuring the web page
