@@ -14,7 +14,6 @@ A responsive Netflix clone created using **HTML**, **CSS**, and **JavaScript**. 
 📂 Netflix_Clone_Website
 │── index.html             ➔ Main landing page
 │── style.css              ➔ Styling for the website
-│── script.js              ➔ Interactive features
 │── assets/                ➔ Images, icons, and media files
 │── README.md              ➔ Project documentation
 ```
@@ -38,7 +37,6 @@ cd Netflix_Clone_Website
 ## Technologies Used
 - **HTML5** - For structuring the web page
 - **CSS3** - For styling and layout
-- **JavaScript** - For dynamic interactions
 
 ## Future Enhancements
 ✅ Add video previews on hover  
